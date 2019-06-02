@@ -24,7 +24,17 @@ h2 {
     color: white;
 }
 
+h4 {
+    color: #08f;
+}
+
 img {
     float: left;
     margin-right: 10px;
+}
+
+.card {
+    position: relative;
+    float: left;
+    margin: 0 30px 30px 0;
 }
