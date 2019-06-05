@@ -13,12 +13,16 @@ html, body {
 
 .navbar-text {
     text-align: center;
-    display: inline-block;
     font-size: 10px;
 }
 
 .jumbotron {
     overflow: hidden;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
 }
 
 h2 {
